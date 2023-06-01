@@ -40,7 +40,7 @@ function generatePassword() {
     finalCharString += specialChars;
   }
 
-  if (addNumbers) {
+  if (addNumbers === true) {
     finalCharString += numbers;
   }
 
