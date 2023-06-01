@@ -18,6 +18,8 @@ Build a Random Password Genereator that functions correctly.
 Repository is public, download public repo from github to source code.
 Link to repository supplied below
 https://github.com/Spudwell/Password-Generator
+Link to delployed URL
+https://spudwell.github.io/Password-Generator/
 
 '''md
 ![Base Screenshot](assets/images/PGreadmepic.png)
