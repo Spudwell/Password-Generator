@@ -26,8 +26,6 @@ function generatePassword() {
   var specChars = confirm("Include Special Characters?");
   var addNumbers = confirm("Include Numbers?");
 
-  console.log(userLength, addLowercase, addUppercase, specChars, addNumbers);
-
   if (addLowercase === true) {
     finalCharString += lowAlphabet;
   }
