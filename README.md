@@ -20,7 +20,7 @@ Link to repository supplied below
 https://github.com/Spudwell/Password-Generator
 
 '''md
-![Base Screenshot](assets/images/PGreadmepic.png
+![Base Screenshot](assets/images/PGreadmepic.png)
 '''
 
 ## Credits
